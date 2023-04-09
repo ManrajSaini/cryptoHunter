@@ -1,4 +1,4 @@
-#CryptoHunter
+# CryptoHunter
 
 Live site : https://manrajcryptohunter.netlify.app/
 
